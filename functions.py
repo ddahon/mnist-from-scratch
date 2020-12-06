@@ -8,3 +8,9 @@ def softmax(x):
 
 def sigmoid(x):
     return 1/(1 + np.exp(-x))
+
+def sigmoid_prime(x):
+    return sigmoid(x)*(1 - sigmoid(x))
+
+def mse(predictions, targets):
+    return np.sum((predictions-targets)**2)/len(predictions)
