@@ -1,0 +1,5 @@
+- [x] Implement neural network structure
+- [x] Implement forward propagation 
+- [x] Implement backpropagation
+- [] Test model on MNIST dataset
+- [] Tune the hyperparameters
