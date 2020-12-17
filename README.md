@@ -1,2 +1,3 @@
 # mnist-from-scratch
-Neural Net in Python from scratch to train on the MNIST dataset
+The objective is to implement a neural network from scratch in Python
+The neural net will be trained on the MNIST dataset (https://en.wikipedia.org/wiki/MNIST_database)
